@@ -16,11 +16,12 @@ Data Analysis Project (End-to-End): Enhancing Health Through Analytics, Leveragi
 • The script highlights the importance of accurately defining and measuring criteria for a healthy lifestyle.<br>
 • The project demonstrates the practical application of SQL queries and data analysis techniques in a real-world project.<br>
 <br>
+<b>Example of Dashboard:</b><br>
+![image](https://github.com/Kanangnut/HR-Analytics-Absenteeism-SQL/assets/130201193/19acb6b0-01c3-4fab-bfdc-9589b311e962)
+<br>
+<br>
 <b>Source:</b><br>
 https://www.flaticon.com/<br>
 https://onlinepngtools.com/change-png-color<br>
 https://gencraft.com/generate<br>
-
-<b>Example of Dashboard:</b><br>
-![image](https://github.com/Kanangnut/HR-Analytics-Absenteeism-SQL/assets/130201193/19acb6b0-01c3-4fab-bfdc-9589b311e962)
 
