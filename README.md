@@ -15,5 +15,7 @@ Data Analysis Project (End-to-End): Enhancing Health Through Analytics: Leveragi
 • The project includes the development of a data visualization dashboard to monitor employee absenteeism.<br>
 • The script highlights the importance of accurately defining and measuring criteria for a healthy lifestyle.<br>
 • The project demonstrates the practical application of SQL queries and data analysis techniques in a real-world project.<br><br>
+<br><br>
+<b>Example of Dashboard:</b><br>
 ![image](https://github.com/Kanangnut/HR-Analytics-Absenteeism-SQL/assets/130201193/19acb6b0-01c3-4fab-bfdc-9589b311e962)
 
