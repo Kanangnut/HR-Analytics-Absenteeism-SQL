@@ -17,7 +17,7 @@ Data Analysis Project (End-to-End): Enhancing Health Through Analytics, Leveragi
 • The project demonstrates the practical application of SQL queries and data analysis techniques in a real-world project.<br>
 <br>
 <b>Example of Dashboard:</b><br>
-![image](https://github.com/Kanangnut/HR-Analytics-Absenteeism-SQL/assets/130201193/19acb6b0-01c3-4fab-bfdc-9589b311e962)
+![image](https://github.com/Kanangnut/HR-Analytics-Absenteeism-SQL/assets/130201193/deed934d-855e-4535-812e-2e9cafc1d4ad)
 <br>
 <br>
 <b>Source:</b><br>
